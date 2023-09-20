@@ -1,5 +1,6 @@
 # gpt-llm-trainer
-[![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_)
+
+- All Credits go to @mattshumer_ Founder of HyperWrite!
 
 LLaMA 2 7B Fine-Tuning version: [![Open LLaMA Version In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mV9sAY4QBKLmS58dpFGHgwCXQKRASR31?usp=sharing)
 
